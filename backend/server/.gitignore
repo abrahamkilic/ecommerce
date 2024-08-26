@@ -18,3 +18,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+/backend/server/app/Services/Firebase.json
+/backend/server/app/Services/FirebaseService.php
